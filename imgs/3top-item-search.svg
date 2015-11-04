@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="711.79504"
+   height="532.49994"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="3top-item-search.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="378.43737"
+     inkscape:cy="242.98516"
+     inkscape:document-units="px"
+     inkscape:current-layer="g3246"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1288"
+     inkscape:window-height="1388"
+     inkscape:window-x="1272"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0.00934927,-54.576469)">
+    <image
+       sodipodi:absref="/home/3TOP/fscharf/DFS/NYC/Home/presentations/20140521-knowledge_engineering_at_3Top/imgs/3top-japanese=restaurants-in-NY.png"
+       xlink:href="3top-japanese=restaurants-in-NY.png"
+       width="311"
+       height="83"
+       id="image3028"
+       x="-0.0093492707"
+       y="322.60379" />
+    <g
+       id="g1"
+       inkscape:label="#g3242">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3031"
+         d="M 167.85714,354.50504 C 338.57143,248.07647 339.28571,246.6479 339.28571,246.6479"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <image
+         sodipodi:absref="/home/3TOP/fscharf/DFS/NYC/Home/presentations/20140521-knowledge_engineering_at_3Top/imgs/masa-yelp-screenshot.png"
+         xlink:href="masa-yelp-screenshot.png"
+         y="54.576469"
+         x="282.21429"
+         id="image3096"
+         height="262"
+         width="169.14285" />
+    </g>
+    <g
+       id="g3">
+      <g
+         id="g3063"
+         inkscape:label="#g3">
+        <g
+           id="g4">
+          <path
+             inkscape:connector-curvature="0"
+             id="path3035"
+             d="m 178.57143,399.50504 c 152.85714,105.71428 152.85714,105.71428 152.85714,105.71428 l 0,0 0.71429,0.71429"
+             style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <image
+             sodipodi:absref="/home/3TOP/fscharf/DFS/NYC/Home/presentations/20140521-knowledge_engineering_at_3Top/imgs/kenka-google-screenshot.png"
+             xlink:href="kenka-google-screenshot.png"
+             width="457"
+             height="160"
+             id="image3060"
+             x="5.0620685"
+             y="427.07639" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g2">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3033"
+         d="m 182.20642,374.5686 c 274.87287,0.58716 274.87287,0.58716 274.87287,0.58716"
+         style="fill:none;stroke:#000000;stroke-width:1.1271255px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <g
+         id="g3246">
+        <image
+           sodipodi:absref="/home/3TOP/fscharf/DFS/NYC/Home/presentations/20140521-knowledge_engineering_at_3Top/imgs/takashi-foursquare.png"
+           xlink:href="takashi-foursquare.png"
+           width="247.14285"
+           height="387.28574"
+           id="image3220"
+           x="464.64285"
+           y="128.71931" />
+      </g>
+    </g>
+  </g>
+</svg>
